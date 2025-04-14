@@ -1,4 +1,6 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on KJSCE Internship Portal<br>🌱 I’m currently learning DSA<br>💬 Ask me about Frontend Development
+
 
 <!--
 **ArfatFakih/ArfatFakih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
