@@ -5,14 +5,10 @@
 🔭 I’m currently working on KJSCE Internship Portal<br>🌱 I’m currently learning DSA<br>💬 Ask me about Frontend Development
 
 
-## Technology I worked with
-
-<p>
+# 💻 Technology I worked with:
  
  ![My Skills](https://skillicons.dev/icons?i=c,java,express,firebase,github,html,css,js,bootstrap,php,mongodb,nodejs,postgres,py,react,redux,flask,mysql,vite,tailwindcss,postman,figma)
  
-</p>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ArfatFakih&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
