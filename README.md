@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on KJSCE Internship Portal<br>🌱 I’m currently learning DSA<br>💬 Ask me about Frontend Development
+🔭 I’m currently working on KJSCE Internship Portal<br>🌱 I’m currently learning DSA<br>💬 Ask me about Full Stack Development
 
 
 # 💻 Technology I worked with:
